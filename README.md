@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hello 👋<br><br>Here's a little about me:<br><br>🔭 I’m currently working on a cool food order app using React.<br>🤝 I’m looking to collaborate on open-source projects related to developer tools.<br>👐 I’m looking for help with improving the performance of my web applications.<br>🌱 I’m currently learning MERN Stack development.<br>💬 Ask me about web development, JavaScript, or my favorite productivity hacks.<br>⚡️ Fun fact: I can solve a Rubik's cube in under two minutes!
+### Hello 👋<br><br>I am Lamin Hein, a fullstack developer specializing in React, Nodejs and modern web design. I build responsive and high-performance web applications.
 
 
 ## 🌐 Socials:
